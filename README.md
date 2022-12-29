@@ -1,5 +1,9 @@
 # Nuxt 3 Minimal Starter
 
+## ⚠️⚠️⚠️ This project was moved to the `Vue 3.x` [tsParticles](https://github.com/matteobruni/tsparticles) component library repository [here](https://github.com/tsparticles/vue3). If you need help, ask there. ⚠️⚠️⚠️
+
+---
+
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
 ## Setup
